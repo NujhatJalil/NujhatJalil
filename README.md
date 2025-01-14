@@ -1,6 +1,6 @@
 # Hi! Nice to meet you :)
 ### About Me:
-Aspiring CS major and data science for social good enthusiast @ Texas A&M University
+CS major and data science for social good enthusiast @ Texas A&M University
 
 * Project in the works: Analysis of Disparities in Disaster Relief and Rescue Efforts
 
