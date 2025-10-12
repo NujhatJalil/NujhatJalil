@@ -2,9 +2,7 @@
 ### About Me:
 CS major and data science for social good enthusiast @ Texas A&M University
 
-* Project in the works: Analysis of Disparities in Disaster Relief and Rescue Efforts
-
-    * Hopefully with a team at [Aggie Data Science Club](https://www.aggiedatascience.com) (fingers crossed!)
+* Project Lead for Systematic Heat Assessment and Data Evaluation (S.H.A.D.E.) Project @ [Aggie Data Science Club](https://www.aggiedatascience.com) (Fall 2025)
 
 * Hoarder of yarn (crochets, knits, punch needles)
 
