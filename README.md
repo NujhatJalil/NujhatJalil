@@ -1,12 +1,22 @@
-# Hi! Nice to meet you :)
+# Hi, I'm Nujhat! 💫
 ### About Me:
-CS major and data science for social good enthusiast @ Texas A&M University
+Senior CS major @ Texas A&M University,
+Projects officer @ [Aggie Data Science Club](https://www.aggiedatascience.com)\
+Computational science for urban resilience & optimization, data science for social good enthusiast
 
-* Project Lead for Systematic Heat Assessment and Data Evaluation (S.H.A.D.E.) Project @ [Aggie Data Science Club](https://www.aggiedatascience.com) (Fall 2025)
+### Projects:
 
-* Hoarder of yarn (crochets, knits, punch needles)
+* ☀️ Lead: The [Systematic Heat Assessment and Data Evaluation (S.H.A.D.E.) Project](https://github.com/NujhatJalil/SHADE-project) @ ADSC (ongoing, Fall 2025)
 
-* Lover of bunnies
+* 🌊 Co-Lead: Disaster Relief Disparities @ ADSC (Spring 24-Fall 24)
 
-### Find Me!
+### Fun Stuff:
+
+* 🪡 Hoarder of hobbies (sewing, crocheting/knitting, reading, drawing, etc etc)
+
+* 🐇 Lover of bunnies
+
+* 🖊️ Keeper of journals: `[travel, junk journal, reading/media, diary, stray thoughts, sketchbook]`
+
+### Connect With Me!
 * LinkedIn: [Nujhat-Jalil](https://www.linkedin.com/in/nujhat-jalil/)
