@@ -12,7 +12,7 @@ Computational science for urban resilience & optimization, data science for soci
 
 ### Fun Stuff:
 
-* 🪡 Hoarder of hobbies (sewing, crocheting/knitting, reading, drawing, etc etc)
+* 🪡 Hoarder of hobbies `[sewing, crocheting/knitting, reading, drawing, etc etc]`
 
 * 🐇 Lover of bunnies
 
