@@ -14,9 +14,9 @@ Computational science for urban resilience & optimization, data science for soci
 
 * 🪡 Hoarder of hobbies `[sewing, crocheting/knitting, reading, drawing, etc etc]`
 
-* 🐇 Lover of bunnies
-
 * 🖊️ Keeper of journals: `[travel, junk journal, reading/media, diary, stray thoughts, sketchbook]`
+
+* 🐇 Lover of bunnies
 
 ### Connect With Me!
 * LinkedIn: [Nujhat-Jalil](https://www.linkedin.com/in/nujhat-jalil/)
