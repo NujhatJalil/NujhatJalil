@@ -1,14 +1,14 @@
 # Hi, I'm Nujhat! 💫
 ### About Me:
-Senior CS major @ Texas A&M University,
+Junior CS major @ Texas A&M University,
 Projects officer @ [Aggie Data Science Club](https://www.aggiedatascience.com)\
 Computational science for urban resilience & optimization, data science for social good enthusiast
 
 ### Projects:
 
-* ☀️ Lead: The [Systematic Heat Assessment and Data Evaluation (S.H.A.D.E.) Project](https://github.com/NujhatJalil/SHADE-project) @ ADSC (ongoing, Fall 2025)
+* ☀️ Lead: The [Systematic Heat Assessment and Data Evaluation (S.H.A.D.E.) Project](https://github.com/NujhatJalil/SHADE-project) @ ADSC (September 2025-Present)
 
-* 🌊 Co-Lead: Disaster Relief Disparities @ ADSC (Spring 24-Fall 24)
+* 🌊 Co-Lead: Disaster Relief Disparities @ ADSC (February 2024-December 2024)
 
 ### Fun Stuff:
 
